@@ -26,7 +26,6 @@ header {
     background-color: #fff;
     color: #17324D;
     border: 1px solid #17324D;
-    border: none;
     cursor: pointer;
     border-radius: 4px;
 }
@@ -86,6 +85,7 @@ article h2 {
 
 article img{                            
     max-width: 150px;
+    height: auto;
 }
 
 
@@ -95,7 +95,7 @@ article img{
 /* Rodapé */
 footer {
     background-color:#17324D;
-    color: black;
+    color: wheat;
     text-align: center;
     padding: 10px;
     font-size: 0.9em;
