@@ -1,7 +1,5 @@
  // Funções de acessibilidade
 let tamanhoFonte = 100;
-let tamanhoMain = 800;
-let main = document.querySelector("main")
 
 function aumentarFonte() 
 {
