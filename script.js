@@ -24,3 +24,7 @@ function diminuirFonte() {
     
 }
 
+
+function alternarContraste() {
+    document.body.classList.toggle("alto-contraste");
+}
