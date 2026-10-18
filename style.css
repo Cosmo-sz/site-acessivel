@@ -29,8 +29,10 @@ header {
     border-radius: 4px;
 }
 
-.acessibilidade button:hover {
-    
+.acessibilidade button:hover 
+{
+    background-color: yellow;
+    font-weight: bold;
 }
 
 /* Menu de navegação */
@@ -46,8 +48,9 @@ nav a {
     margin: 0 10px;
 }
 
-nav a:hover {
-
+nav a:hover 
+{
+    text-decoration: underline;
 }
 
 /* Conteúdo principal */
@@ -69,7 +72,6 @@ article h2 {
 
 
 
-
 article img{                            
     max-width: 150px;
 }
@@ -81,7 +83,7 @@ article img{
 /* Rodapé */
 footer {
     background-color:darkgoldenrod;
-    color: peru;
+    color: black;
     text-align: center;
     padding: 10px;
     font-size: 0.9em;
