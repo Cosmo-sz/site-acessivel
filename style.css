@@ -108,3 +108,18 @@ footer {
     background-color: black !important;
     color: white !important;
 }
+
+.alto-contraste main {
+    background-color: black !important;
+    color: white !important;
+}
+
+.alto-contraste article p {
+    color: white !important;
+}
+
+.alto-contraste .acessibilidade button {
+    background-color: yellow;
+    color: black;
+    border: 2px solid white;
+}
